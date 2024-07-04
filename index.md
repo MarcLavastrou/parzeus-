@@ -13,7 +13,7 @@ in_menu: true
 <title>Page 1</title>
 </head>
 
-<body background="images%20grece%20site/paysage.jpg">
+<body background="paysage.jpg">
 
 <div align="center">
   <center>
