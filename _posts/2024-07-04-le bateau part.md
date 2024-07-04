@@ -1,5 +1,5 @@
 ---
-title: "2 -- Le bateau part"
+title: "Le bateau part"
 ---
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
